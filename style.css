@@ -1,0 +1,26 @@
+#voyage-description {
+	border: 2px dashed black;
+	max-width: 700px;
+	margin: 40px auto auto auto;
+	padding: 10px 10px 10px 10px;
+	text-align: center;
+	background-color: #fff9bf;
+}
+
+#main {
+
+}
+
+body {
+	font-family: Verdana, Arial, sans-serif;
+}
+
+p{
+	text-align: center;
+	color:#0d1e99;
+}
+
+#footer{
+	color:gray;
+	font-style: italic;
+}
